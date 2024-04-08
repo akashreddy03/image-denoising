@@ -18,7 +18,7 @@ This repository contains the implementation of an image denoising system using m
     git clone https://github.com/akashreddy03/image-denoising.git
     ```
 
-2. Install necessary libraries to run the project
+2. Install necessary libraries required to run the project
 
 3. Run the `img_capture_denoise.py` script:
 
