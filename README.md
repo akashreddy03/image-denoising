@@ -16,6 +16,7 @@ This repository contains the implementation of an image denoising system using m
 
     ```sh
     git clone https://github.com/akashreddy03/image-denoising.git
+    cd image-denoising
     ```
 
 2. Install necessary libraries required to run the project
