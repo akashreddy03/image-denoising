@@ -21,7 +21,11 @@ This repository contains the implementation of an image denoising system using m
 
 2. Install necessary libraries required to run the project
 
-3. Run the `img_capture_denoise.py` script:
+   ```sh
+   pip install scikit-learn scikit-image opencv-python
+   ```
+
+4. Run the `img_capture_denoise.py` script:
 
     ```sh
     python img_capture_denoise.py
